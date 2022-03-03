@@ -33,3 +33,4 @@ File 17-tree creates a script that creates the directories welcome/, welcome/to/
 
 File 18-commas writes a command that lists all the files and directories of the current directory, separated by commas (,).
 some minor Changes
+Scripts need a thorough Revision

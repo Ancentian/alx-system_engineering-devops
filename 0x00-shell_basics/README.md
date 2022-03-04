@@ -36,3 +36,5 @@ some minor Changes
 Scripts need a thorough Revision
 
 File Create a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
+
+Emacs correction

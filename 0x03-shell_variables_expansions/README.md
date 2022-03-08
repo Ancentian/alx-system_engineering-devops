@@ -12,3 +12,24 @@ File 3 Create a script that counts the number of directories in the PATH.
 File 4 Create a script that lists environment variables.
 
 File 5 Create a script that lists all local variables and environment variables, and functions.
+
+File 6 Create a script that creates a new local variable.
+
+Name: BEST
+Value: School
+
+File 7 Create a script that creates a new global variable.
+
+Name: BEST
+Value: School
+
+File 8 Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+
+File 9 Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
+
+POWER and DIVIDE are environment variables
+
+File 10 Write a script that displays the result of BREATH to the power LOVE
+
+BREATH and LOVE are environment variables
+The script should display the result, followed by a new line
